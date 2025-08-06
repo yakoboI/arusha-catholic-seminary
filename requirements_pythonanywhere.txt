@@ -1,0 +1,26 @@
+# Essential packages for PythonAnywhere deployment
+# Arusha Catholic Seminary School Management System
+
+# Core Framework
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+
+# Database
+sqlalchemy==2.0.36
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
+python-multipart==0.0.20
+
+# Data Validation
+pydantic==2.10.4
+email-validator==2.1.1
+
+# File Handling
+Pillow==11.0.0
+
+# Utilities
+python-dateutil==2.9.0
+pytz==2024.2

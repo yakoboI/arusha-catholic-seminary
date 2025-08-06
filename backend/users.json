@@ -1,0 +1,13 @@
+{
+  "admin": {
+    "id": "admin-001",
+    "username": "admin",
+    "email": "admin@arushaseminary.edu",
+    "full_name": "System Administrator",
+    "hashed_password": "$2b$12$b//K4Sz0/KAPWEM1dzJEOOFMJ3ZRS5le/JUlqvdGRtoVBq8s1Af8i",
+    "role": "admin",
+    "is_active": true,
+    "created_at": "2025-08-06T02:02:12.287909",
+    "last_login": null
+  }
+}
